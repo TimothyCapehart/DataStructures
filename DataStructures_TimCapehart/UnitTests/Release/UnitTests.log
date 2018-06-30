@@ -1,0 +1,129 @@
+﻿  AVLTest.cpp
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(88): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(96): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\dllist.h(84): warning C4522: 'DLList<T>': multiple assignment operators specified
+          with
+          [
+              T=AVLNode<int> *
+          ]
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\listqueue.h(10): note: see reference to class template instantiation 'DLList<T>' being compiled
+          with
+          [
+              T=AVLNode<int> *
+          ]
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\avl.h(415): note: see reference to class template instantiation 'ListQueue<AVLNode<int> *>' being compiled
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\avl.h(414): note: while compiling class template member function 'void AVL<int>::BreadthFirst(void (__cdecl *)(AVLNode<int> *),AVLNode<int> *)'
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\avl.h(65): note: see reference to function template instantiation 'void AVL<int>::BreadthFirst(void (__cdecl *)(AVLNode<int> *),AVLNode<int> *)' being compiled
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\unittests\avltest.cpp(32): note: see reference to class template instantiation 'AVL<int>' being compiled
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\listqueue.h(25): warning C4522: 'ListQueue<AVLNode<int> *>': multiple assignment operators specified
+  BSTTest.cpp
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(88): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(96): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\unittests\bsttest.cpp(264): warning C4101: 'e': unreferenced local variable
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\dllist.h(84): warning C4522: 'DLList<T>': multiple assignment operators specified
+          with
+          [
+              T=BSTNode<int> *
+          ]
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\listqueue.h(10): note: see reference to class template instantiation 'DLList<T>' being compiled
+          with
+          [
+              T=BSTNode<int> *
+          ]
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\binarysearchtree.h(134): note: see reference to class template instantiation 'ListQueue<BSTNode<int> *>' being compiled
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\binarysearchtree.h(133): note: while compiling class template member function 'void BST<int>::BreadthFirst(void (__cdecl *)(BSTNode<int> *),BSTNode<int> *)'
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\binarysearchtree.h(41): note: see reference to function template instantiation 'void BST<int>::BreadthFirst(void (__cdecl *)(BSTNode<int> *),BSTNode<int> *)' being compiled
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\unittests\bsttest.cpp(33): note: see reference to class template instantiation 'BST<int>' being compiled
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\listqueue.h(25): warning C4522: 'ListQueue<BSTNode<int> *>': multiple assignment operators specified
+  IteratorTests.cpp
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(88): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(96): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\dllist.h(84): warning C4522: 'DLList<int>': multiple assignment operators specified
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\unittests\iteratortests.cpp(20): note: see reference to class template instantiation 'DLList<int>' being compiled
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\dllist.h(84): warning C4522: 'DLList<std::string>': multiple assignment operators specified
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\unittests\iteratortests.cpp(146): note: see reference to class template instantiation 'DLList<std::string>' being compiled
+  LinkedListTest.cpp
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(88): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(96): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\dllist.h(84): warning C4522: 'DLList<int>': multiple assignment operators specified
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\unittests\linkedlisttest.cpp(19): note: see reference to class template instantiation 'DLList<int>' being compiled
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\dllist.h(84): warning C4522: 'DLList<::size_t>': multiple assignment operators specified
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\unittests\linkedlisttest.cpp(36): note: see reference to class template instantiation 'DLList<::size_t>' being compiled
+  ListQueueTest.cpp
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(88): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(96): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\dllist.h(84): warning C4522: 'DLList<T>': multiple assignment operators specified
+          with
+          [
+              T=std::string
+          ]
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\listqueue.h(10): note: see reference to class template instantiation 'DLList<T>' being compiled
+          with
+          [
+              T=std::string
+          ]
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\unittests\listqueuetest.cpp(20): note: see reference to class template instantiation 'ListQueue<std::string>' being compiled
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\listqueue.h(25): warning C4522: 'ListQueue<std::string>': multiple assignment operators specified
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\unittests\listqueuetest.cpp(135): warning C4101: 'e': unreferenced local variable
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\unittests\listqueuetest.cpp(172): warning C4101: 'e': unreferenced local variable
+  ListStackTest.cpp
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(88): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(96): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\dllist.h(84): warning C4522: 'DLList<T>': multiple assignment operators specified
+          with
+          [
+              T=std::string
+          ]
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\liststack.h(10): note: see reference to class template instantiation 'DLList<T>' being compiled
+          with
+          [
+              T=std::string
+          ]
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\unittests\liststacktest.cpp(20): note: see reference to class template instantiation 'ListStack<std::string>' being compiled
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\liststack.h(28): warning C4522: 'ListStack<std::string>': multiple assignment operators specified
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\dllist.h(84): warning C4522: 'DLList<T>': multiple assignment operators specified
+          with
+          [
+              T=int
+          ]
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\liststack.h(10): note: see reference to class template instantiation 'DLList<T>' being compiled
+          with
+          [
+              T=int
+          ]
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\unittests\liststacktest.cpp(27): note: see reference to class template instantiation 'ListStack<int>' being compiled
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\liststack.h(28): warning C4522: 'ListStack<int>': multiple assignment operators specified
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\unittests\liststacktest.cpp(123): warning C4101: 'e': unreferenced local variable
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\unittests\liststacktest.cpp(160): warning C4101: 'e': unreferenced local variable
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library C:\Users\tcape\source\repos\DataStructures\DataStructures_TimCapehart\Release\UnitTests.lib and object C:\Users\tcape\source\repos\DataStructures\DataStructures_TimCapehart\Release\UnitTests.exp
+  Generating code
+  0 of 929 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  UnitTests.vcxproj -> C:\Users\tcape\source\repos\DataStructures\DataStructures_TimCapehart\Release\UnitTests.dll

@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\exception.h(37): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\array2d.h(152): warning C4715: 'Array2D<int>::operator[]': not all control paths return a value
+  Main.vcxproj -> C:\Users\tcape\source\repos\DataStructures\DataStructures_TimCapehart\x64\Debug\Main.exe

@@ -1,0 +1,65 @@
+﻿  FreecellDriver.cpp
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\card.h(39): warning C4522: 'Card': multiple assignment operators specified
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Deck.h(53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Exception.h(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Exception.h(88): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Exception.h(96): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\ArrayStack.h(41): warning C4522: 'ArrayStack<Card>': multiple assignment operators specified
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\FCBoard.h(30): note: see reference to class template instantiation 'ArrayStack<Card>' being compiled
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\DLList.h(84): warning C4522: 'DLList<T>': multiple assignment operators specified
+          with
+          [
+              T=Card
+          ]
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\ListStack.h(10): note: see reference to class template instantiation 'DLList<T>' being compiled
+          with
+          [
+              T=Card
+          ]
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\FCBoard.h(31): note: see reference to class template instantiation 'ListStack<Card>' being compiled
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\ListStack.h(28): warning C4522: 'ListStack<Card>': multiple assignment operators specified
+C:\Users\tcape\source\repos\DataStructures\DataStructures_TimCapehart\DataStructures\FreeCell.h(229): warning C4553: '==': operator has no effect; did you intend '='?
+  MinesweeperDriver.cpp
+C:\Users\tcape\source\repos\DataStructures\DataStructures_TimCapehart\DataStructures\Exception.h(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+C:\Users\tcape\source\repos\DataStructures\DataStructures_TimCapehart\DataStructures\Exception.h(88): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+C:\Users\tcape\source\repos\DataStructures\DataStructures_TimCapehart\DataStructures\Exception.h(96): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(162): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(183): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(204): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(225): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(249): warning C4018: '<': signed/unsigned mismatch
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(268): warning C4018: '<': signed/unsigned mismatch
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(274): warning C4018: '<': signed/unsigned mismatch
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(280): warning C4018: '<': signed/unsigned mismatch
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(286): warning C4018: '<': signed/unsigned mismatch
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(295): warning C4018: '<': signed/unsigned mismatch
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(369): warning C4018: '<': signed/unsigned mismatch
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(371): warning C4018: '<': signed/unsigned mismatch
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(403): warning C4018: '<': signed/unsigned mismatch
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(406): warning C4018: '<': signed/unsigned mismatch
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(409): warning C4018: '<': signed/unsigned mismatch
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Array2D.h(196): warning C4018: '<': signed/unsigned mismatch
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Array2D.h(188): note: while compiling class template member function 'void Array2D<Cell>::setColumn(int)'
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(58): note: see reference to function template instantiation 'void Array2D<Cell>::setColumn(int)' being compiled
+  c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Board.h(20): note: see reference to class template instantiation 'Array2D<Cell>' being compiled
+c:\users\tcape\source\repos\datastructures\datastructures_timcapehart\datastructures\Array2D.h(197): warning C4018: '<': signed/unsigned mismatch
+  Scratch.cpp
+C:\Users\tcape\source\repos\DataStructures\DataStructures_TimCapehart\DataStructures\Exception.h(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+C:\Users\tcape\source\repos\DataStructures\DataStructures_TimCapehart\DataStructures\Exception.h(88): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+C:\Users\tcape\source\repos\DataStructures\DataStructures_TimCapehart\DataStructures\Exception.h(96): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdlib.h(926): note: see declaration of 'mbstowcs'
+  Generating code
+  0 of 442 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Main.vcxproj -> C:\Users\tcape\source\repos\DataStructures\DataStructures_TimCapehart\Release\Main.exe
