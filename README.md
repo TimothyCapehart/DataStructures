@@ -1,5 +1,5 @@
 # DataStructures
-Data Structure Library, Unit Tests, Minesweeper, FreeCell, Djikstra
+Data Structure Library, Sorting Algorithms, Unit Tests, Minesweeper, FreeCell, Djikstra
 
 CST 211 Data Structures Oregon Tech Wilsonville, Winter 2017/18
 
@@ -18,7 +18,19 @@ ListStack,
 DirectoryTree,
 GenericTree,
 Graph,
-HashMap,
+HashMap
+
+Templated Sorting Algorithms:
+
+Selection Sort,
+Bubble Sort,
+Bubble Sort (efficient),
+Insertion Sort,
+Heap Sort,
+Quick Sort,
+Shell Sort,
+Merge Sort
+
 
 Accessories:
 List Iterators,
