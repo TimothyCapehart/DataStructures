@@ -228,28 +228,25 @@ inline void Array<T>::setLength(int length)
 	{
 		throw Exception("Invalid length");
 	}
+	if (length == m_length)
+	{
+		m_length = length;
+	}
 	else
 	{
-		if (length == m_length)
+		size_t shorterLength = (length < m_length) ? length : m_length;
+
+		T *temp = new T[length];
+		//Array<T> copy(this);
+
+		for (size_t i = 0; i < shorterLength; ++i)
 		{
-			m_length = length;
+			temp[i] = m_array[i];
 		}
-		else
-		{
-			size_t shorterLength = (length < m_length) ? length : m_length;
+		delete[] m_array;
+		m_array = temp;
 
-			T *temp = new T[length];
-			//Array<T> copy(this);
-
-			for (size_t i = 0; i < shorterLength; ++i)
-			{
-				temp[i] = m_array[i];
-			}
-			delete[] m_array;
-			m_array = temp;
-
-			m_length = length;
-		}
+		m_length = length;
 	}
 }
 #endif
