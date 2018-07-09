@@ -35,10 +35,12 @@ Excel analysis comparing sorting algorithm performance using my templated arrays
 
 
 Accessories:
+
 List Iterators,
 Exceptions
 
 Applications:
+
 FreeCell,
 Minesweeper,
 Dijkstra's Algorithm
