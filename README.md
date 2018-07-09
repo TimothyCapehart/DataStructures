@@ -24,7 +24,7 @@ Templated Sorting Algorithms:
 
 Selection Sort,
 Bubble Sort,
-Bubble Sort (efficient),
+Bubble Sort (improved),
 Insertion Sort,
 Heap Sort,
 Quick Sort,
