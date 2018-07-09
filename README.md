@@ -31,6 +31,8 @@ Quick Sort,
 Shell Sort,
 Merge Sort
 
+Excel analysis comparing sorting algorithm performance using my templated arrays, STL Vectors, and C arrays.
+
 
 Accessories:
 List Iterators,
